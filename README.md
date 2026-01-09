@@ -38,3 +38,6 @@ Database Systems – Compatible with MySQL, PostgreSQL, or SQLite
 🧾 Invoices & InvoiceLines: Captures customer purchases with detailed line items.
 
 👥 Customer & Employee Tables: Supports customer profiles and employee hierarchy.
+
+Demo:
+https://github.com/shamaldere22/SQL_Project_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png
