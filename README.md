@@ -41,3 +41,5 @@ Database Systems – Compatible with MySQL, PostgreSQL, or SQLite
 
 Demo:
 https://github.com/shamaldere22/SQL_Project_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png
+<img width="710" height="574" alt="image" src="https://github.com/user-attachments/assets/dc06f8dd-1761-4e7e-a913-18577ba3d1eb" />
+
