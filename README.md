@@ -1,4 +1,4 @@
-🎵 Music Store Database Schema
+🎵 SQL Project Music Store Analysis
 
 📌 Project Overview
 
